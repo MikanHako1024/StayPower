@@ -1,3 +1,3 @@
-# GameJam20221014_Power
-萌新开发挑战NewbiesJam
-dev by Mikan
+# StayPower
+Sources for [GameOff2022](https://itch.io/jam/game-off-2022)
+

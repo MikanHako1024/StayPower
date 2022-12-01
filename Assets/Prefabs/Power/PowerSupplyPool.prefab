@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7842483208084535560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7842483208084535562}
+  - component: {fileID: 7842483208084535563}
+  m_Layer: 0
+  m_Name: PowerSupplyPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7842483208084535562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7842483208084535560}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7842483208084535563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7842483208084535560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911ae597a47ba85438f162cf53b2fbd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerSupplyPrefab: {fileID: 2885179306117423980, guid: 26597579ec44b664e845e76df3407174, type: 3}
+  poolSize: 20
+  upSprite: {fileID: 522117739, guid: dc8ab1e3fd2bc4b43b522f2c679c1dc7, type: 3}
+  downSprite: {fileID: 1490812538, guid: dc8ab1e3fd2bc4b43b522f2c679c1dc7, type: 3}
+  leftSprite: {fileID: 932926209, guid: dc8ab1e3fd2bc4b43b522f2c679c1dc7, type: 3}
+  rightSprite: {fileID: -825354538, guid: dc8ab1e3fd2bc4b43b522f2c679c1dc7, type: 3}

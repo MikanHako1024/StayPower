@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f797d2de586d2b446af1ee12e4d751cd, type: 3}
+  m_Name: SignalTile_L3
+  m_EditorClassIdentifier: 
+  spriteList:
+  - {fileID: 911723434, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: -720010712, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: -1874962922, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: 592632616, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: 264661077, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: -1482562129, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: 1175686256, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
+  - {fileID: 370886758, guid: 7f79eae6089130d4489b2ae6bf987228, type: 3}
